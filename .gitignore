@@ -1,0 +1,28 @@
+# maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# eclipse
+.settings/
+.project
+.classpath
+
+# vim
+*~
+*.swp
+*.swo
+
+# intellij
+*.iml
+.idea/
+
+# bin
+bin/
+*.class
+
+# nics-ansible
+ansible_mvn_build.txt
